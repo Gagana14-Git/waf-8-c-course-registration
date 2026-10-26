@@ -26,7 +26,7 @@ def home():
             message = "Registration successful!"
 
     return render_template_string("""
-    <h2>Online Student Course Registration System</h2>
+    <h2>Online Student Course Registration System - Updated</h2>
 
     <form method="POST">
         Student Name:
